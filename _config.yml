@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 云飞yang
-subtitle: 终于开始营销自己了
+title: 云飞young
+subtitle: 暂时没什么好写的，后面找机会再补
 description:
 keywords:
 author: NukeBomb
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: lite
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
